@@ -28,7 +28,7 @@
 
 ## About The Project
 
-A Portfolio Website I spent a really long time editing, so I hope you'll like it ^^
+A Portfolio <a href="https://licnex.vercel.app">Website</a> I spent a really long time editing, so I hope you'll like it ^^. btw the website has some fake info as I dont have much to write on.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
