@@ -67,8 +67,8 @@ Project Link: [https://github.com/Licnex/Licnex](https://github.com/Licnex/Licne
 
   <summary>About Me</summary>
 
-    <p align="center">
-        Hi, I'm Momin Khan, an aspiring software engineer from Pakistan
+<p align="center">
+       ## Hi, I'm Momin Khan, an aspiring software engineer from Pakistan
         <br>
         <br>
         🏆 Current achievements:
@@ -87,9 +87,9 @@ Project Link: [https://github.com/Licnex/Licnex](https://github.com/Licnex/Licne
 
     <br>
 
-    <h2 align="center">「📈」 GitHub Stats </h2>
+<h2 align="center">「📈」 GitHub Stats </h2>
 
-        <br>
+<br>
         <p align=center>
         <div align=center>
             <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
