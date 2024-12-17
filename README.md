@@ -4,12 +4,14 @@
 [![Issues][issues-shield]][issues-url]
 [![project_license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;This+is+Alexander+Li....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <details>
     <summary>About the website</summary>
-<h3 align="center">project_title</h3>
-
   <p align="center">
     A dynamic portfolio site
     <br />
@@ -68,7 +70,7 @@ Project Link: [https://github.com/Licnex/Licnex](https://github.com/Licnex/Licne
   <summary>About Me</summary>
 
 <p align="center">
-       ## Hi, I'm Momin Khan, an aspiring software engineer from Pakistan
+        Hi, I'm Momin Khan, an aspiring software engineer from Pakistan
         <br>
         <br>
         🏆 Current achievements:
