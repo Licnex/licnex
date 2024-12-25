@@ -84,7 +84,7 @@ Project Link: [https://github.com/Licnex/Licnex](https://github.com/Licnex/Licne
         <br>
         💬 Ask me anything by opening an issue <a href="https://github.com/Licnex/Licnex/issues" title="Issue">here</a>
         <br>
-        📫 How to reach me: <a href="mailto: email@gmail.com">email@gmail.com</a>
+        📫 How to reach me: <a href="mailto: mominravage@gmail.com">mominravage@gmail.com</a>
         </p>
     <br>
 
