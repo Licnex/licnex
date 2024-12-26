@@ -18,7 +18,7 @@
     <a href="https://github.com/Licnex/Licnex"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Licnex/Licnex">View Demo</a>
+    <a href="licnex.vercel.app">View Demo</a>
     ·
     <a href="https://github.com/Licnex/Licnex/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
