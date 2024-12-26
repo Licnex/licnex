@@ -80,7 +80,7 @@ Project Link: [https://github.com/Licnex/Licnex](https://github.com/Licnex/Licne
         <br>
         💻 I love playing Chess in my free time and learning new things
         <br>
-        👨‍💻 I’m currently grinding math and physics 😅
+        👨‍💻 I’m currently grinding pakstudies 😅
         <br>
         💬 Ask me anything by opening an issue <a href="https://github.com/Licnex/Licnex/issues" title="Issue">here</a>
         <br>
