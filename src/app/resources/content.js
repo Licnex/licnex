@@ -48,7 +48,7 @@ const home = {
     title: `${person.name}'s Portfolio`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Student and Programming hobbyist</>,
-    subline: <>I'm Momin Khan, a Student at <InlineCode>LGS</InlineCode>, where I learn<br/>  After hours of coding and tinkering, I build my own projects.</>
+    subline: <>I'm Momin Khan, a Student at <InlineCode>LGS</InlineCode> where I learn, <br/>  After hours of coding and tinkering, I build my own projects.</>
 }
 
 const about = {
@@ -69,7 +69,7 @@ const about = {
     intro: {
         display: true,
         title: 'Introduction',
-        description: <>In grade 9 at Lahore Grammer School, Momin Khan exhibits a profound enthusiasm for computer science and mathematics, coupled with a keen interest in puzzle solving and logistics. </>
+        description: <>In grade 9 at Lahore Grammer School, Momin Khan exhibits a profound enthusiasm for computer science and mathematics, coupled with a keen interest in puzzle solving. </>
     },
     work: {
         display: false, // set to false to hide this section

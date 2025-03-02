@@ -13,7 +13,7 @@ const routes = {
     '/':        true,
     '/about':   true,
     '/work':    true,
-    '/blog':    true,
+    '/blog':    false,
     '/gallery': false,
 }
 
@@ -31,8 +31,8 @@ const effects = {
     },
     dots: {
         display: true,
-        opacity: 0.4,           // 0 - 1
-        size: '24'              // 2 | 4 | 8 | 12 | 16 | 20 | 24 | 32 | 40 | 48 | 56 | 634
+        opacity: 0.9,           // 0 - 1
+        size: '40'              // 2 | 4 | 8 | 12 | 16 | 20 | 24 | 32 | 40 | 48 | 56 | 634
     },
     lines: {
         display: false,
@@ -43,7 +43,7 @@ const style = {
     theme:       'light',         // dark | light
     neutral:     'gray',         // sand | gray | slate
     brand:       'violet',      // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
-    accent:      'red',       // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
+    accent:      'blue',       // blue | indigo | violet | magenta | pink | red | orange | yellow | moss | green | emerald | aqua | cyan
     solid:       'contrast',     // color | contrast
     solidStyle:  'flat',         // flat | plastic
     border:      'rounded',      // rounded | playful | conservative
