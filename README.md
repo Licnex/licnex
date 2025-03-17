@@ -75,6 +75,7 @@ Project Link: [https://github.com/Licnex/Licnex](https://github.com/Licnex/Licne
         <br>
         🏆 Current achievements:
         <br>
+          - todo
         <br>
         🏫 I'm currently in high school, studying under the Igcse program
         <br>
