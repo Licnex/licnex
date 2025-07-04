@@ -48,7 +48,7 @@ const home = {
     title: `${person.name}'s Portfolio`,
     description: `Portfolio website showcasing my work as a ${person.role}`,
     headline: <>Student, Programmer & Problem Solver</>,
-    subline: <>I'm Momin Khan, a Grade 10 student at <InlineCode>LGS JT Senior Boys Campus</InlineCode> passionate about programming, mathematics, and competitive chess. <br /> I build projects, participate in hackathons, and solve complex problems.</>
+    subline: <>I'm Momin Khan, a Grade 9 student at <InlineCode>LGS JT Senior Boys Campus</InlineCode> passionate about programming, mathematics, and competitive chess. <br /> I build projects, participate in hackathons, and solve complex problems.</>
 }
 
 const about = {
@@ -198,4 +198,83 @@ const work = {
     // All projects will be listed on the /home and /work routes
 }
 
-export { person, social, newsletter, home, about, blog, work };
+const gallery = {
+    label: 'Gallery',
+    title: 'My photo gallery',
+    description: `A photo collection by ${person.name}`,
+    // Images from https://pexels.com
+    images: [
+        {
+            src: '/images/gallery/img-01.jpg',
+            alt: 'image',
+            orientation: 'vertical'
+        },
+        {
+            src: '/images/gallery/img-02.jpg',
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        {
+            src: '/images/gallery/img-03.jpg',
+            alt: 'image',
+            orientation: 'vertical'
+        },
+        {
+            src: '/images/gallery/img-04.jpg',
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        {
+            src: '/images/gallery/img-05.jpg',
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        {
+            src: '/images/gallery/img-06.jpg',
+            alt: 'image',
+            orientation: 'vertical'
+        },
+        {
+            src: '/images/gallery/img-07.jpg',
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        {
+            src: '/images/gallery/img-08.jpg',
+            alt: 'image',
+            orientation: 'vertical'
+        },
+        {
+            src: '/images/gallery/img-09.jpg',
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        {
+            src: '/images/gallery/img-10.jpg',
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        {
+            src: '/images/gallery/img-11.jpg',
+            alt: 'image',
+            orientation: 'vertical'
+        },
+        {
+            src: '/images/gallery/img-12.jpg',
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        {
+            src: '/images/gallery/img-13.jpg',
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+        {
+            src: '/images/gallery/img-14.jpg',
+            alt: 'image',
+            orientation: 'horizontal'
+        },
+    ]
+}
+
+export { person, social, newsletter, home, about, blog, work, gallery };

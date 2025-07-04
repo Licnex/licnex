@@ -1,0 +1,8 @@
+.posts {}
+
+.hover {
+    &:hover {
+        background: var(--neutral-alpha-weak);
+        transition: all var(--transition-micro) var(--ease-out);
+    }
+}

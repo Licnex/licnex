@@ -1,0 +1,41 @@
+{
+    "person": {
+        "role": "Student & Developer"
+    },
+    "newsletter": {
+        "title": "Berlangganan Newsletter {firstName}",
+        "description": "Saya kadang-kadang menulis tentang desain, teknologi, dan berbagi pemikiran tentang persimpangan kreativitas dan rekayasa",
+        "button": "Daftar"
+    },
+    "home": {
+        "label": "Beranda",
+        "title": "Portfolio {name}",
+        "description": "Situs web portfolio yang menampilkan karya saya sebagai {role}",
+        "headline": "Pelajar, Programmer & Problem Solver",
+        "subline": "Saya Momin Khan, siswa kelas 9 di LGS JT Senior Boys Campus yang bersemangat tentang pemrograman, matematika, dan catur kompetitif. Saya membangun proyek, berpartisipasi dalam hackathon, dan memecahkan masalah kompleks."
+    },
+    "about": {
+        "label": "Tentang",
+        "title": "Tentang saya",
+        "description": "Bertemu {name}, {role} dari {location}",
+        "intro": {
+            "title": "Pendahuluan",
+            "description": "Siswa kelas 9 di Lahore Grammar School dengan passion untuk ilmu komputer, matematika, dan catur kompetitif. Saya aktif berpartisipasi dalam kompetisi pemrograman, hackathon, dan olimpiade matematika sambil membangun proyek inovatif di waktu luang."
+        }
+    },
+    "blog": {
+        "label": "Blog",
+        "title": "Menulis tentang desain dan teknologi...",
+        "description": "Baca apa yang telah dilakukan {name} baru-baru ini"
+    },
+    "work": {
+        "label": "Karya",
+        "title": "Proyek saya",
+        "description": "Proyek pemrograman, robotika, dan implementasi teknis oleh {name}"
+    },
+    "gallery": {
+        "label": "Galeri",
+        "title": "Galeri foto saya",
+        "description": "Koleksi foto oleh {name}"
+    }
+}

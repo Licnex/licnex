@@ -1,0 +1,81 @@
+{
+    "person": {
+        "role": "Student & Developer"
+    },
+    "newsletter": {
+        "title": "Subscribe to {firstName}'s Newsletter",
+        "description": "I occasionally write about design, technology, and share thoughts on the intersection of creativity and engineering",
+        "button": "Sign up"
+    },
+    "home": {
+        "label": "Home",
+        "title": "{name}'s Portfolio",
+        "description": "Portfolio website showcasing my work as a {role}",
+        "headline": "Student, Programmer & Problem Solver",
+        "subline": "I'm Momin Khan, a Grade 9 student at LGS JT Senior Boys Campus passionate about programming, mathematics, and competitive chess. I build projects, participate in hackathons, and solve complex problems."
+    },
+    "about": {
+        "label": "About",
+        "title": "About me",
+        "description": "Meet {name}, {role} from {location}",
+        "intro": {
+            "title": "Introduction",
+            "description": "Grade 9 student at Lahore Grammar School with a passion for computer science, mathematics, and competitive chess. I actively participate in programming competitions, hackathons, and mathematical olympiads while building innovative projects in my spare time."
+        },
+        "work": {
+            "title": "Competitions & Events",
+            "experiences": {
+                "HackClub High Seas": {
+                    "timeframe": "2024",
+                    "role": "Participant & Prize Winner",
+                    "achievements": "Participated in HackClub's High Seas hackathon and won multiple prizes for innovative projects.;Contributed to open-source projects and built meaningful applications during the competition."
+                },
+                "Chess Competitions": {
+                    "timeframe": "2023 - 2024",
+                    "role": "Competitive Player",
+                    "achievements": "Participated in JT Fest chess tournament representing my school.;Competed in 4th Kings Chess Club Blitz Championship (FIDE Rated tournament).;Regularly participate in competitive chess events and tournaments."
+                }
+            }
+        },
+        "studies": {
+            "title": "Studies",
+            "institutions": {
+                "LGS JT Senior Boys Campus": {
+                    "description": "Currently in Grade 9, focusing on computer science, mathematics, and competitive programming."
+                },
+                "HackClub": {
+                    "description": "Active member where I develop projects, participate in hackathons, and collaborate with fellow developers."
+                }
+            }
+        },
+        "technical": {
+            "title": "Technical skills",
+            "skills": {
+                "Python": {
+                    "description": "Very proficient in Python development. Used for automation, data processing, and building various projects including web applications and algorithmic solutions."
+                },
+                "Arduino & Embedded Systems": {
+                    "description": "Proficient in Arduino C++ programming. Built robotics projects including line followers and automated systems for competitions like NERC."
+                }
+            }
+        }
+    },
+    "blog": {
+        "label": "Blog",
+        "title": "Writing about design and tech...",
+        "description": "Read what {name} has been up to recently"
+    },
+    "work": {
+        "label": "Work",
+        "title": "My projects",
+        "description": "Programming projects, robotics, and technical implementations by {name}"
+    },
+    "gallery": {
+        "label": "Gallery",
+        "title": "My photo gallery",
+        "description": "A photo collection by {name}"
+    },
+    "projectCard": {
+        "label": "Read Case Study"
+    }
+}
