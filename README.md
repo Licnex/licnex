@@ -1,7 +1,7 @@
 
-<p align="center">
+<p align="left">
         Hi, I'm Momin Khan, an aspiring software engineer from Pakistan
-        <br><br>
+        <br>
         I'm currently in high school, studying for caies.
         <br>
         I like chess, hollow-likes, and competitive programming.
